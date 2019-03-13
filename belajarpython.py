@@ -45,6 +45,7 @@ for y in angka:
 buah=["nanas","semangka","durian"]
 for makanan in buah:
     print(makanan)
+print("lanjutkan progam")
 
 #nested loop -> perulangan di dalam perulangan
 i=3
@@ -58,11 +59,9 @@ while(i<100):
         i=i+1
 print ("goodbye")
 
-#number pada python
-#tipe number pada python = int, float, complex
-u=20.0
-print(int(u))
-print(float(20.0))
+#
+
+
 
 
 
